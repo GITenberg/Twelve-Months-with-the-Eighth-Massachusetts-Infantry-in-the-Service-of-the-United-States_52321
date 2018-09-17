@@ -1,0 +1,37 @@
+_repo: Twelve-Months-with-the-Eighth-Massachusetts-Infantry-in-the-Service-of-the-United-States_52321
+_version: 0.0.1
+alternative_title: 12 Months with the 8th Massachusetts Infantry in the Service of
+  the United States
+contributor:
+  author_of_introduction:
+    agent_name: Sanger, Joseph Prentiss
+    alias: Sanger, J. P. (Joseph Prentiss)
+    birthdate: 1840
+    deathdate: 1926
+    gutenberg_agent_id: '46787'
+    url: http://www.gutenberg.org/2009/agents/46787
+creator:
+  author:
+    agent_name: Webber, Harry Endicott
+    alias: Webber, Harry E.
+    birthdate: 1874
+    gutenberg_agent_id: '46790'
+    url: http://www.gutenberg.org/2009/agents/46790
+description: ''
+gutenberg_issued: '2016-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52321'
+  lccn: 08022335
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 8th (1898-1899)'
+- !lcc 'E660'
+- !lcsh 'Spanish-American War, 1898 -- Regimental histories -- United States'
+- GITenberg
+title: Twelve Months with the Eighth Massachusetts Infantry in the Service of the
+  United States
+url: http://www.gutenberg.org/ebooks/52321
